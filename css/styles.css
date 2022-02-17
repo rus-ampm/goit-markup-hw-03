@@ -201,6 +201,10 @@ img {
 }
 
 .business {
+  padding-top: 0;
+}
+
+.business-list {
   display: flex;
   justify-content: space-between;
 }
