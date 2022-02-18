@@ -269,9 +269,8 @@ img {
 .buttons {
   display: flex;
   justify-content: center;
-  margin-bottom: 34px;
+  margin-bottom: 50px;
   min-width: 611px;
-  height: 54px;
 }
 
 .btn {
